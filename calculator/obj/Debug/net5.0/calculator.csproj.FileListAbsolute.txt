@@ -1,0 +1,16 @@
+C:\Users\danil\Desktop\c# projects\calculator\calculator\bin\Debug\net5.0\calculator.exe
+C:\Users\danil\Desktop\c# projects\calculator\calculator\bin\Debug\net5.0\calculator.deps.json
+C:\Users\danil\Desktop\c# projects\calculator\calculator\bin\Debug\net5.0\calculator.runtimeconfig.json
+C:\Users\danil\Desktop\c# projects\calculator\calculator\bin\Debug\net5.0\calculator.runtimeconfig.dev.json
+C:\Users\danil\Desktop\c# projects\calculator\calculator\bin\Debug\net5.0\calculator.dll
+C:\Users\danil\Desktop\c# projects\calculator\calculator\bin\Debug\net5.0\ref\calculator.dll
+C:\Users\danil\Desktop\c# projects\calculator\calculator\bin\Debug\net5.0\calculator.pdb
+C:\Users\danil\Desktop\c# projects\calculator\calculator\obj\Debug\net5.0\calculator.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\c# projects\calculator\calculator\obj\Debug\net5.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\c# projects\calculator\calculator\obj\Debug\net5.0\calculator.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\c# projects\calculator\calculator\obj\Debug\net5.0\calculator.AssemblyInfo.cs
+C:\Users\danil\Desktop\c# projects\calculator\calculator\obj\Debug\net5.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\c# projects\calculator\calculator\obj\Debug\net5.0\calculator.dll
+C:\Users\danil\Desktop\c# projects\calculator\calculator\obj\Debug\net5.0\ref\calculator.dll
+C:\Users\danil\Desktop\c# projects\calculator\calculator\obj\Debug\net5.0\calculator.pdb
+C:\Users\danil\Desktop\c# projects\calculator\calculator\obj\Debug\net5.0\calculator.genruntimeconfig.cache
