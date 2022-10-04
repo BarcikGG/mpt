@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\bin\Debug\net6.0\Three_Programs.exe
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\bin\Debug\net6.0\Three_Programs.deps.json
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\bin\Debug\net6.0\Three_Programs.runtimeconfig.json
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\bin\Debug\net6.0\Three_Programs.dll
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\bin\Debug\net6.0\Three_Programs.pdb
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\Three_Programs.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\Three_Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\Three_Programs.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\Three_Programs.AssemblyInfo.cs
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\Three_Programs.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\Three_Programs.dll
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\refint\Three_Programs.dll
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\Three_Programs.pdb
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\Three_Programs.genruntimeconfig.cache
+C:\Users\danil\Desktop\c# projects\Three_Programs\Three_Programs\obj\Debug\net6.0\ref\Three_Programs.dll
